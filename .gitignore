@@ -1,0 +1,6 @@
+*-backups
+*-bak
+fp-info-cache
+gerber
+*.zip
+.DS_Store
