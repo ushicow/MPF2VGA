@@ -3,4 +3,8 @@
 fp-info-cache
 gerber
 *.zip
+*.bak
+db
+incremental_db
+output_files
 .DS_Store
